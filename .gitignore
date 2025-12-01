@@ -1,0 +1,9 @@
+.claude
+venv
+.DS_Store
+__pycache__*
+victim_model.pt
+stolen_model.pt
+
+# Dataset (auto-downloaded by torchvision)
+data/
