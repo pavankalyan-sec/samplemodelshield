@@ -210,10 +210,6 @@ model-extraction-demo/
 
 The Fashion-MNIST dataset (~30MB) is automatically downloaded on first run.
 
-## License
-
-MIT License. Fashion-MNIST dataset is also MIT licensed (Zalando Research).
-
 ## References
 
 - [Fashion-MNIST Dataset](https://github.com/zalandoresearch/fashion-mnist)
